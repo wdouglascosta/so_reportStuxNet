@@ -26,4 +26,14 @@ O programa nuclear iraniano foi lançado por volta de 1950, criando armas fora d
 
 Em 2002, um grupo de oposição iraniano revelou publicamente duas instalações nucleares não declaradas no Irã, admitindo ter construído instalações para enriquecimento de combustível e produção de água pesada ostensivamente para uso em reatores de pesquisa. O governo suspendeu seus planos em 2003, mas retomou em 2006 argumentando que tinha o direito de estabelecer seu próprio programa de enriquecimento de urânio.
 
-O Irã mantém seu programa completamente em paz, porém a Agência Internacional de Energia Nuclear (IAEA) insiste que o Irã não cumpre com os requisitos de segurança, o que foi motivo de diversas sanções do Conselho de Segurança contra o 
+O Irã mantém seu programa completamente em paz, porém a Agência Internacional de Energia Nuclear (IAEA) insiste que o Irã não cumpre com os requisitos de segurança, o que foi motivo de diversas sanções do Conselho de Segurança contra o Irã pelo Conselho de Segurança, que acreditava que o Irã estava trabalhando na produção de armas nucleares.
+Assumindo que o StuxNet teve a intençao de danificar esse suposto programa de armas nucleares, a intervenção foi bem sucedida: estima-se que tenha destruído aproximadamente 1000 centrífugas em Natanz, o que representa mais de 11% do número instalado durante todo o período. Além disso, o Irã não tem um número ilimitado de centrífugas, e os que eles têm tendem a falhar com relativa frequência, de modo que tal diminuição é significativa, embora não imediatamente fatal para o programa. Além disso, o Stuxnet diminuiu a produção de urânio enriquecido e provavelmente semeou o caos dentro do programa nuclear iraniano.
+
+Israel e USA são os principais suspeitos de serem os criadores do StuxNet. Também não são amigos do governo iraniano, especialmente Israel, que teme uma guerra nuclear do Irã. Israel afirmou que artifícios cybernéticos são uma parte importante da sua estratégia de defesa, e possui uma unidade militar dedicada a isto. Antes do StuxNet ser descoberto, John Bumgarner, um oficial reformado da inteligência e membro da *United States Cyber-Consequences Unit (US-CCU)* publicou um artigo que descreve um ataque a centrífugas parecido com os modos de operação do StuxNet, e afirma que ataques contra nações que enriquecem urânio 
+
+Before Stuxnet had been discovered, according to Wikipedia, “John Bumgarner, a former intelli-
+gence officer and member of the United States Cyber-Consequences Unit (US-CCU)” had published
+an article describing a Stuxnet-like attack on centrifuges, and claimed that such attacks against
+nations enriching uranium in violation of international treaties are legitimate. This, combined with
+some US officials’ not-quite-denials of involvement, raise suspicions that the US participated in
+Stuxnet’s creation, despite official denials
