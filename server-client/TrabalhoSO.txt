@@ -1,0 +1,11 @@
+Alunos:
+RA 89239 - William D. Costa
+RA 89869 - Gustavo Leite
+RA 90857 - André Luan
+RA 70114 - Adriano Rezende
+
+Servidor A - porta 4240
+Servidor B - porta 4241
+Servidor C - porta 4242
+
+Proxy - porta 4243
